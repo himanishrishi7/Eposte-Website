@@ -113,3 +113,9 @@ body {
     padding: 0 20px;
 }
 
+.error-message {
+    color: red;
+    font-weight: bold;
+    margin-top: 10px;
+    text-align: center; /* Centers the text */
+}
