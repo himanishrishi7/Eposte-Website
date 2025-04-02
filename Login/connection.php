@@ -2,7 +2,7 @@
 
 $dbhost = "localhost";
 $dbuser = "root";
-$dbpass = "1234";
+$dbpass = "";
 $dbname = "eposte";
 
 if(!$con = mysqli_connect($dbhost,$dbuser,$dbpass,$dbname))
